@@ -28,8 +28,6 @@ It demonstrates how real-world applications like libraries can use **Linked List
 ---
 
 
----
-
 ## 🖥️ How It Works
 1. When a book is added, it’s stored in a **Linked List** and also inserted into a **BST** for fast searching.  
 2. The user can view all books in the order they were added or sort them using **Merge Sort**.  
@@ -66,6 +64,6 @@ This project is open-source and available under the [MIT License](https://openso
 If you have any questions or feedback, feel free to reach out:
 * **GitHub:** [LuckyG05](https://github.com/LuckyG05)
 
----
+
 
 
